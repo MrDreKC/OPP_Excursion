@@ -1,1 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  text-align: center;
+  margin: 40px;
+}
+
+#text-info {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+  font-size: 24px;
+  margin: -10px 0 2px;
+}
