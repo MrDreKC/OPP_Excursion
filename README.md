@@ -4,4 +4,4 @@ So with this Off Platfrom Projcet, I'm tasked with creating is a web page that a
 
 *update* - learned how to add folders to my repositories, so yeah all previous repositories will more or less be updated when I find the time.
 
-To checkout the site, [click here]
+To checkout the site, [click here](https://mrdrekc.github.io/OPP_Excursion/)
